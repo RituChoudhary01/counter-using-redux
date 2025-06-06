@@ -1,2 +1,25 @@
-# counter-using-redux
-A simple and responsive Counter App built with React and Redux. Showcases state management using Redux with increment, decrement, and reset functionality in a clean and intuitive UI.
+# 🔢 Counter App using React & Redux Toolkit
+
+A simple yet powerful **Counter Application** built with **React** and **Redux Toolkit** to demonstrate global state management using Redux in a React environment.
+
+## 🚀 Live Demo
+
+Try it here 👉 [click here to see live](https://counter-using-redux-theta.vercel.app)
+
+## ⚙️ Features
+
+- ➕ Increment the counter
+- ➖ Decrement the counter
+- 🌐 Global state management using Redux Toolkit
+- 💡 Clean and minimal UI
+- ⚡ Lightning-fast performance
+
+## 🧰 Tech Stack
+
+- **React** – Component-based UI
+- **Redux Toolkit** – Simplified Redux state management
+- **React-Redux** – Connects React with Redux
+- **CSS** – For basic styling
+- **Vercel** – Deployment platform
+
+
